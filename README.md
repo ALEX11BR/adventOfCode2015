@@ -12,6 +12,7 @@ This can be accomplished, for instance, by:
 
 Certain solutions have caveats:
 - Day 4: makes use of `openssl`, specifically the `crypto` module.
+- Day 20: it takes a couple of seconds to run (for each part).
 
 ## Run
 ```sh
